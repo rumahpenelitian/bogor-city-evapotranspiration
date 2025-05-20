@@ -2,7 +2,7 @@
 
 Repository ini berisi projek aplikasi berbasis web sistem informasi geografis kota bogor yang memuat informasi vegetasi, suhu, dan evapotranspirasi.
 
-[Klik disini](https://bogor-evapotranspiration.vercel.app) untuk melihat demo aplikasi.
+[Klik disini]([https://rumahpenelitian.github.io/bogor-city-evapotranspiration/]) untuk melihat demo aplikasi.
 
 ## :package: Prasyarat
 
